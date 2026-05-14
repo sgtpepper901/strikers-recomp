@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+build/
+generated/
+assets/
+*.iso
+*.nkit.iso
+*.gcm
+*.rvz
+*.gxfifo.bin
+*.gcmem.bin
+*.ppm
+*.png

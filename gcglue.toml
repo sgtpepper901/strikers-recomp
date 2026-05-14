@@ -1,0 +1,20 @@
+# gcglue project configuration for a local Super Mario Strikers disc image.
+
+[app]
+name = "Super Mario Strikers"
+namespace = "super_mario_strikers"
+
+[input]
+path = "assets/super-mario-strikers.nkit.iso"
+format = "auto"
+
+[codegen]
+output_dir = "generated"
+embed_image = true
+discover_functions = true
+strict_alignment = true
+
+[runtime]
+mem1_size = 25165824
+aram_size = 16777216
+headless = true
