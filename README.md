@@ -21,9 +21,9 @@ These captures come from local native GCGlue execution and GX preview output. Vi
 
 ![Stadium loading](screenshots/02-stadium-loading.jpg)
 
-![Match intro](screenshots/03-match-intro.jpg)
+![Near-goal gameplay](screenshots/03-match-intro.jpg)
 
-![On-pitch rendering](screenshots/04-on-pitch.jpg)
+![Midfield active match](screenshots/04-on-pitch.jpg)
 
 ## Required Local Inputs
 
