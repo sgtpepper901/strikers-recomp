@@ -2,7 +2,7 @@
 
 This repository is a sanitized GCGlue project scaffold for Super Mario Strikers bring-up.
 
-It does not include any commercial game image, extracted game assets, generated DOL byte arrays, screenshots, memory dumps, FIFO sidecars, or local build outputs.
+It does not include any commercial game image, extracted game assets, generated DOL byte arrays, memory dumps, FIFO sidecars, or local build outputs.
 
 ## What Is Included
 
@@ -11,6 +11,19 @@ It does not include any commercial game image, extracted game assets, generated 
 - CMake project files
 - helper scripts for local regeneration, live play, and smoke verification
 - status notes for the native recompilation/runtime path
+- selected native progress screenshots
+
+## Progress Screenshots
+
+These captures come from local native GCGlue execution and GX preview output. Visual artifacts are expected; they are included to show current runtime progress.
+
+![Team select](screenshots/01-team-select.jpg)
+
+![Stadium loading](screenshots/02-stadium-loading.jpg)
+
+![Match intro](screenshots/03-match-intro.jpg)
+
+![On-pitch rendering](screenshots/04-on-pitch.jpg)
 
 ## Required Local Inputs
 
