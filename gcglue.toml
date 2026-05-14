@@ -1,4 +1,4 @@
-# gcglue project configuration for a local Super Mario Strikers disc image.
+# gcglue project configuration
 
 [app]
 name = "Super Mario Strikers"
@@ -16,5 +16,8 @@ strict_alignment = true
 
 [runtime]
 mem1_size = 25165824
-aram_size = 16777216
+aram_size = 67108864
 headless = true
+memory_card_slot_a = true
+gx_fifo_capture_limit = 33554432
+gx_latest_frame_stride = 4

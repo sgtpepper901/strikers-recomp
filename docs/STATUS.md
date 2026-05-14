@@ -7,6 +7,7 @@ Confirmed local bring-up milestones:
 - Native execution reaches real frontend and match gameplay states.
 - Live input plumbing can drive boot/menu/match flow.
 - GX frame capture/replay produces recognizable in-game match frames.
+- Public scaffold files were refreshed on 2026-05-14 to match the current runtime defaults and screenshot set.
 - Current safe runtime path keeps CPU external interrupt delivery gated while PI/VI/DSP causes are modeled.
 
 Known open work:
