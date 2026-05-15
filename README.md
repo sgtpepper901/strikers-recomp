@@ -19,9 +19,9 @@ These captures come from local native GCGlue execution and GX preview output. Vi
 
 ![Team select](screenshots/01-team-select.jpg)
 
-![Stadium loading](screenshots/02-stadium-loading.jpg)
+![Stadium selection](screenshots/02-stadium-loading.jpg)
 
-![Near-goal gameplay](screenshots/03-match-intro.jpg)
+![Palace match replay](screenshots/03-match-intro.jpg)
 
 ![Midfield active match](screenshots/04-on-pitch.jpg)
 
